@@ -1,1 +1,0 @@
-# This code is made to solve and so called prove the way of thought used to approach the old question about order of numbers.
